@@ -92,7 +92,3 @@ To explore the dashboard and learn more, simply download the Excel files from th
 This project is part of my Excel Data Analytics Portfolio and showcases my ability to handle complex data, create insightful reports, and design user-friendly dashboards. It reflects key skills in **data modeling**, **advanced Excel techniques**, and **business intelligence reporting**—skills I am eager to apply in a professional setting.
 
 For more projects, please visit my GitHub profile: [Jacob Odiko](https://github.com/jacobodiko)
-
----
-
-This README file provides potential employers with a detailed and professional overview of your skills and capabilities, highlighting your Excel expertise and making the project appealing to recruiters or hiring managers.
