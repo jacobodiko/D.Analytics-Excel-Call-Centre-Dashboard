@@ -3,10 +3,6 @@
 
 Welcome to my **Excel Data Analytics Portfolio**. This project demonstrates advanced Excel skills by building a **Call Centre Performance Dashboard** from scratch. The dashboard provides key insights into call center operations, performance metrics, and customer demographics using powerful Excel tools like **Pivot Tables**, **Power Pivot**, and **DAX**.
 
-GitHub Repository: [Excel Call Centre Dashboard Project](https://github.com/jacobodiko/Excel-Call-Centre-Dashboard-Project.git)
-
----
-
 ## Project Overview
 
 This project involves the creation of an interactive **Call Centre Performance Dashboard** that highlights critical metrics such as call volumes, agent performance, customer satisfaction, and revenue analysis. The dashboard is built using advanced Excel functionalities to showcase data analysis and visualization skills relevant to real-world data analytics tasks.
@@ -90,5 +86,3 @@ To explore the dashboard and learn more, simply download the Excel files from th
 ## Conclusion
 
 This project is part of my Excel Data Analytics Portfolio and showcases my ability to handle complex data, create insightful reports, and design user-friendly dashboards. It reflects key skills in **data modeling**, **advanced Excel techniques**, and **business intelligence reporting**—skills I am eager to apply in a professional setting.
-
-For more projects, please visit my GitHub profile: [Jacob Odiko](https://github.com/jacobodiko)
